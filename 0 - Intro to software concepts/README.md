@@ -9,3 +9,8 @@ In this module, we discuss software at a high level:
 - What is a functional programming language versus object oriented programming language? TODO
 
 6 lessons @ 30 minutes each
+Created by: Jim
+Owned by: Jim
+
+# Champions
+Add your name here once you complete this course

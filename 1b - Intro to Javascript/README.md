@@ -9,6 +9,11 @@ In this module, we discuss the basics of Javascript.
 - What are classes and how do they relate to object oriented programming? TODO
 
 ~11 lessons @ 30 minutes each TODO
+Created by: Jim
+Owned by: Jim
 
 # Additional Resources
 - https://www.w3schools.com/js/default.asp
+
+# Champions
+Add your name here once you complete this course

@@ -6,3 +6,8 @@ In this module, we discuss the various programming tools all programmers need to
 - IDEs (vscode)
 
 3 lessons @ 30 minutes each
+Created by: Jim
+Owned by: Jim
+
+# Champions
+Add your name here once you complete this course
