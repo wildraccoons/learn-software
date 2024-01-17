@@ -9,5 +9,7 @@ The numbering is only a suggested order to learn using the modules for a beginne
 Student Lead: Jett
 Mentor Lead: Jim
 
+If you have a specific topic you would like covered, please let us know and we will add a section.
+
 # Want to contribute?
 Check on the CONTRIBUTE.md to learn how to add to this repository.
