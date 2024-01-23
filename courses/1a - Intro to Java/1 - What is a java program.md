@@ -44,3 +44,10 @@ This are just comments. REPL.it includes some comments on how to include their t
 Click `Run` at the top of the page and you will see `Hello World!` appear on the right hand side.
 
 Under the hood, what is happening is REPL.it is building the Java code and then running it using the runtime and forwarding the underlying `stdout` to your browser.
+
+# Additional Resources
+https://www.w3schools.com/java/java_intro.asp
+https://www.w3schools.com/java/java_getstarted.asp
+https://www.w3schools.com/java/java_syntax.asp
+https://www.w3schools.com/java/java_output.asp
+https://www.w3schools.com/java/java_comments.asp
